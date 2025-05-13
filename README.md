@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Wajee567
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Business and Information Technology (BBIT)
-
+- My name is Wahaj Sheikh and im pursuing bachelors degree in BBIT
 
 <!---
 Wajee567/Wajee567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
